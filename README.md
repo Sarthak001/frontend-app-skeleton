@@ -1,1 +1,1 @@
-# frontend-app-skeleton
+# Front-End-App-Skeleton
